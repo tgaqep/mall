@@ -8,4 +8,5 @@ import org.springframework.context.annotation.Configuration;
 @MapperScan("com.tga.mall.mbg.mapper")
 public class MyBatisConfig {
 
+
 }
